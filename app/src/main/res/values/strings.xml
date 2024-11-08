@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BoxPuzzler</string>
+    <string name="sliding_puzzle">Sliding Puzzle</string>
+    <string name="moves_0">Moves: 0</string>
+    <string name="new_game">New Game</string>
+    <string name="congratulations_puzzle_solved">Congratulations! Puzzle Solved!</string>
+    <string name="moves">"Moves: "</string>
+</resources>
